@@ -4,12 +4,12 @@ group = "app.morphe"
 
 patches {
     about {
-        name = "Morphe Patches"
-        description = "Patches for Morphe"
-        source = "git@github.com:MorpheApp/morphe-patches.git"
-        author = "MorpheApp"
+        name = "Mhs11294 Educational Patches"
+        description = "Fork of Morphe Patches with Add to Anki buttons for dictionary apps"
+        source = "git@github.com:Mhs11294/educational-morphe-patches.git"
+        author = "Mhs11294"
         contact = "na"
-        website = "https://morphe.software"
+        website = "https://github.com/Mhs11294/educational-morphe-patches"
         license = "GNU General Public License v3.0, with additional GPL section 7 requirements"
     }
 }
