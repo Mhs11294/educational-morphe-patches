@@ -35,7 +35,7 @@ All modifications made by Morphe, along with their dates, can be found in the Gi
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v2.1.0-dev.6](https://github.com/MorpheApp/morphe-patches/releases/tag/v2.1.0-dev.6)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;196 patches total
+> **[v2.1.0](https://github.com/Mhs11294/educational-morphe-patches/releases/tag/v2.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;197 patches total
 <details>
 <summary>📦 YouTube&nbsp;&nbsp;•&nbsp;&nbsp;111 patches</summary>
 <br>
@@ -62,7 +62,7 @@ All modifications made by Morphe, along with their dates, can be found in the Gi
 | [Channel search](#channel-search) | Adds an option to search inside the channel that is currently open instead of searching all of YouTube. |  |
 | [Channel whitelist](#channel-whitelist) | Adds options to allow whitelisting specific channels to show ads or override playback speeds. |  |
 | [Check watch history domain name resolution](#check-watch-history-domain-name-resolution) | Checks if the device DNS server is preventing user watch history from being saved. |  |
-| [Copy text](#copy-text) | Adds options to copy the video title and comments by tapping and holding them. |  |
+| [Copy text](#copy-text) | Adds options to copy the video title and comments, and to select text of video descriptions and posts, by tapping and holding them. |  |
 | [Copy video link](#copy-video-link) | Adds options to display buttons in the video player to copy video links. |  |
 | [Custom branding](#custom-branding) | Adds options to change the app icon and app name. For mounted (root) installations the branding is applied while patching, because it cannot be changed from the app settings. | • App name<br>• Custom icon<br>• App icon |
 | [Custom font](#custom-font) | Adds an option to show the app with the device system font or a custom TTF or OTF font file instead of YouTube Sans. |  |
@@ -162,12 +162,27 @@ All modifications made by Morphe, along with their dates, can be found in the Gi
 </details>
 
 <details>
+<summary>📦 Merriam-Webster&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 5.6.3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Add to Anki](#add-to-anki) | Adds a button next to share on each definition that sends the word and its definitions to AnkiDroid as a new card. |  |
+
+</details>
+
+<details>
 <summary>📦 YouTube Music&nbsp;&nbsp;•&nbsp;&nbsp;49 patches</summary>
 <br>
 
 **🎯 Supported versions:**
 
-| 🧪&nbsp;9.43.51 | 🧪&nbsp;9.42.52 | 🧪&nbsp;9.41.52 | 9.30.53 | 9.20.53 | 9.15.51 |
+| 🧪&nbsp;9.44.52 | 🧪&nbsp;9.43.51 | 🧪&nbsp;9.42.52 | 9.30.53 | 9.20.53 | 9.15.51 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
@@ -220,7 +235,7 @@ All modifications made by Morphe, along with their dates, can be found in the Gi
 | [Spoof app version](#spoof-app-version) | Adds an option to trick the app into thinking you are running an older version. |  |
 | [Spoof video streams](#spoof-video-streams) | Adds options to spoof the client video streams to fix playback. |  |
 | [Theme](#theme) | Adds options for theming, and settings to change the app foreground and background colors. | • Dark theme color |
-| [Third-party lyrics](#third-party-lyrics) | Adds an option to show synced lyrics with experience enhancement from 18+ providers in the lyrics panel. |  |
+| [Third-party lyrics](#third-party-lyrics) | Adds an option to show synced lyrics with experience enhancement from 19+ providers in the lyrics panel. |  |
 
 </details>
 
