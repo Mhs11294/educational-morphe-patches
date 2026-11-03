@@ -1,3 +1,16 @@
+## [3.0.0](https://github.com/Mhs11294/educational-morphe-patches/compare/v2.1.0...v3.0.0) (2026-11-03)
+
+### ⚠ BREAKING CHANGES
+
+* All patches except Merriam-Webster "Add to Anki" are removed.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_019HHNPvQE2XjWBaq48XvGD3
+
+### ✨ New Features
+
+* Keep only the Merriam-Webster patch ([f3283a2](https://github.com/Mhs11294/educational-morphe-patches/commit/f3283a2f3859f1fd822242ea8fdf67fd5e199148))
+
 ## [2.1.0](https://github.com/Mhs11294/educational-morphe-patches/compare/v2.0.0...v2.1.0) (2026-11-02)
 
 ### ✨ New Features
